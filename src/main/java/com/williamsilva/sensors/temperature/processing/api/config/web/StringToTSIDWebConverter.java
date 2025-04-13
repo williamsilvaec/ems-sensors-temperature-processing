@@ -1,4 +1,4 @@
-package com.williamsilva.sensors.temperature.processing.api.config;
+package com.williamsilva.sensors.temperature.processing.api.config.web;
 
 import io.hypersistence.tsid.TSID;
 import org.springframework.core.convert.converter.Converter;

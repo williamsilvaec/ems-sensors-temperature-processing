@@ -1,4 +1,4 @@
-package com.williamsilva.sensors.temperature.processing.api.config;
+package com.williamsilva.sensors.temperature.processing.api.config.web;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.format.FormatterRegistry;
